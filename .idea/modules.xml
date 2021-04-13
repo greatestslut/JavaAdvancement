@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayListAdvancement/ArrayListAdvancement.iml" filepath="$PROJECT_DIR$/ArrayListAdvancement/ArrayListAdvancement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionBreakpoint/ExceptionBreakpoint.iml" filepath="$PROJECT_DIR$/ExceptionBreakpoint/ExceptionBreakpoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceAdvancement/InterfaceAdvancement.iml" filepath="$PROJECT_DIR$/InterfaceAdvancement/InterfaceAdvancement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAdvancement.iml" filepath="$PROJECT_DIR$/JavaAdvancement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModifierAdvancement/ModifierAdvancement.iml" filepath="$PROJECT_DIR$/ModifierAdvancement/ModifierAdvancement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reflection/Reflection.iml" filepath="$PROJECT_DIR$/Reflection/Reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadsMessage/ThreadsMessage.iml" filepath="$PROJECT_DIR$/ThreadsMessage/ThreadsMessage.iml" />
+    </modules>
+  </component>
+</project>
